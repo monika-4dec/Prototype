@@ -1,0 +1,4 @@
+cd C:\Users\monika201103\Prototype
+streamlit run client_value_navigator1.py
+ 
+run in anaconda prompt
